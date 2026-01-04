@@ -1,0 +1,13 @@
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema_pdv.csproj.AssemblyReference.cache
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema_pdv.DashboardForm.resources
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema_pdv.Form1.resources
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema_pdv.Properties.Resources.resources
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema_pdv.TelaCaixa.resources
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema_pdv.TelaVendas.resources
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema_pdv.csproj.GenerateResource.cache
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema_pdv.csproj.CoreCompileInputs.cache
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema-pdv.exe
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\obj\Debug\sistema-pdv.pdb
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\bin\Debug\sistema-pdv.exe.config
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\bin\Debug\sistema-pdv.exe
+C:\Users\Limazx\Desktop\SISTEMA PADARIA\sistema-pdv\bin\Debug\sistema-pdv.pdb
